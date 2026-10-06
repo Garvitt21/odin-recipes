@@ -10,3 +10,28 @@ img {
   display: block;
   margin : 0 auto;
 }
+h2 {
+   background-color: white;
+   border: 2px solid black;
+   text-align: center;
+   font-style: italic;
+}
+a {
+  box-sizing: border-box;
+  font-size: 20px;
+  color : grey;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px;
+  width : auto;
+  display: block;
+  text-align: center;
+}
+footer {
+  text-align: right;
+  margin-top: 30px;
+}
+#important {
+  border: 2px salmon;
+  display: inline-block;
+}
